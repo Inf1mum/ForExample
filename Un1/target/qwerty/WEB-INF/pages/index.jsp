@@ -15,7 +15,7 @@
  </head>
 
  <body>
-
+<h1>Message ${message}</h1>
  <div class="container">
 
      <form class="form-signin">
