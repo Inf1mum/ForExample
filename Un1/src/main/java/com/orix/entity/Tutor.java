@@ -38,10 +38,7 @@ public class Tutor extends User {
         this.feedbacks = feedbacks;
     }
 
-    public Tutor(String login, String password, String firstName, String email, String lastName) {
-        super(login, password, firstName, email, lastName);
 
-    }
 
     public Tutor(){
 

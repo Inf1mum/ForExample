@@ -7,4 +7,6 @@ import com.orix.entity.User;
  */
 public interface UserDao extends GenericDao<User,Integer> {
 
+    public User getUserByLogin(String login);
+
 }
